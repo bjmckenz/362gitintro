@@ -1,5 +1,8 @@
 Europe
-Nroth America
+North America
+South America
 Asia
-Atlantis
+Africa
+Australia
+Antartica
 
